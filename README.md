@@ -23,7 +23,4 @@ Para executar este projeto localmente, você precisará ter:
 
 ## Configuração do Ambiente
 
-### 1. Clonar o Repositório
-```bash
-git clone https://github.com/seuusuario/erp-sistema.git
-cd erp-sistema
+

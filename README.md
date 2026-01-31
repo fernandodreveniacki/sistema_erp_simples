@@ -21,6 +21,6 @@ Para executar este projeto localmente, você precisará ter:
 - **Python 3.7+** instalado.
 - **MySQL** instalado e configurado.
 
-## Configuração do Ambiente
+
 
 
